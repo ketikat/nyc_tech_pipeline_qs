@@ -1,0 +1,12 @@
+
+{
+  "extends": ["standard",
+    "plugin:react/recommended"
+  ],
+
+  "plugins": ["babel"]
+,
+  "rules" : {
+      "react/prop-types": "disabled"
+  }
+}
